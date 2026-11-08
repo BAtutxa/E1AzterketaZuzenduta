@@ -1,0 +1,9 @@
+[
+  { "id": 1, "izena": "Gilda", "prezioa": 2.5, "balorazioa": 4.5 },
+  { "id": 2, "izena": "Bakailao tortilla", "prezioa": 3.2, "balorazioa": 4.8 },
+  { "id": 3, "izena": "Txangurroa", "prezioa": 4.5, "balorazioa": 4.2 },
+  { "id": 4, "izena": "Gilda", "prezioa": 2.5, "balorazioa": 4.3 },
+  { "id": 5, "izena": "Txorizo pintxoa", "prezioa": 2.8, "balorazioa": 3.9 },
+  { "id": 6, "izena": "Urdaiazpiko kroketa", "prezioa": 2.0, "balorazioa": 4.1 },
+  { "id": 7, "izena": "Ganba brotxeta", "prezioa": 3.9, "balorazioa": 4.6 }
+]
